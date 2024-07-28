@@ -2,7 +2,7 @@
 const FlashScript = () => {
 
     return (
-        <div className="sticky inset-0 bg-transparent w-full h-screen">
+        <div className="inset-0 bg-transparent">
             <a 
                 href="https://github.com/FlashScript-Main"
                 target="_blank"

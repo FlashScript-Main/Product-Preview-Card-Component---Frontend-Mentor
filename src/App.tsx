@@ -6,7 +6,7 @@ const App = () => {
         <div className="relative w-full h-screen bg-primary-cream grid place-content-center">
             <ProductCard />
 
-            {/* <FlashScript /> */}
+            <FlashScript />
         </div>
     )
 
