@@ -1,11 +1,12 @@
-import { FlashScript } from "./components"
+import { FlashScript, ProductCard } from "./components"
 
 const App = () => {
 
     return (
-        <div className="relative w-full h-screen">
-            <h1>App</h1>
-            <FlashScript />
+        <div className="relative w-full h-screen bg-primary-cream grid place-content-center">
+            <ProductCard />
+
+            {/* <FlashScript /> */}
         </div>
     )
 

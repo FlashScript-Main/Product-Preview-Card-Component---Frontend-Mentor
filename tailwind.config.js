@@ -7,27 +7,18 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'inter': ['"Inter var", sans-serif'],
+        'montserrat': ['"Montserrat", sans-serif'],
+        'fraunces': ['"Fraunces", serif'],
       },
       colors: {
-        // body
-          // 'body-bg-dark': '#0f172a',
-          // 'body-bg-light': '#f1f5f9',
+        // Primary
+          'primary-dark-cyan': 'hsl(158, 36%, 37%)',
+          'primary-cream': 'hsl(30, 38%, 92%)',
 
-        // button
-          // 'btn-bg-1': '#4D96A9',
-          // 'btn-bg-2': '#855FB1',
-
-        // text
-          // 'main-text-h1-light': '#0f172a',
-          // 'main-text-h1-dark': '#ffffff',
-          // 'main-title': 'rgba(56,189,248,1)',
-        
-        // card
-          // 'nav-card-bg-dark': '#173a55',
-          // 'nav-card-text-dark': '#13b1f8',
-          // 'nav-card-bg-light': '#d7f2fe',
-          // 'nav-card-text-light': '#0f89ca',
+        // Neutral
+          'neutral-very-dark-blue': 'hsl(212, 21%, 14%)',
+          'neutral-dark-grayish-blue': 'hsl(228, 12%, 48%)',
+          'neutral-white': 'hsl(0, 0%, 100%)',
       },
       screens: {
         // @media (min-width: ...) {}
