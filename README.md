@@ -1,5 +1,5 @@
 <!-- Remove (👈🏻ChangeThis) -->
-❤️🔥🔗[Live Website](https://google.com)(👈🏻ChangeThis)🔗🔥❤️
+❤️🔥🔗[Live Website](https://flashscript-productpreviewcardcompone.netlify.app/)🔗🔥❤️
 
 # Frontend Mentor 🧭- Product preview card component
 ![Design preview for the Blog preview card coding challenge](./src/assets/screenshots/product-prev-desktop-screen.png)

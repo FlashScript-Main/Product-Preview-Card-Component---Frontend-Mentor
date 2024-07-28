@@ -5,13 +5,13 @@ const ProductCard = () => {
         <div className={`max-w-[400px] md:max-w-[600px] | flex flex-col md:flex-row |  | `}>
             <div className={` |  | md:basis-1/2 | `}>
                 <img 
-                    src="/src/assets/images/image-product-mobile.jpg" 
+                    src="/mobile.png" 
                     alt="Product Image" 
                     className={` | rounded-t-2xl md:hidden |  | `}
                 />
                 <img 
-                    src="/src/assets/images/image-product-desktop.jpg" 
-                    alt="" 
+                    src="/desktop.png" 
+                    alt="Product Image" 
                     className={` | max-md:hidden rounded-l-2xl h-full object-cover object-center |  | `}
                 />
             </div>
